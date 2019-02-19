@@ -12,7 +12,7 @@ https://github.com/tigp/master/releases
 
 ### Available options
 
-![alt text](https://github.com/tigp/elm-short-clickable-errors/blob/master/docs/Available-Options.png "Available options")
+![alt text](https://github.com/tigp/elm-short-clickable-errors/blob/master/docs/Available-options.png "Available options")
 
 ## Compile
 
