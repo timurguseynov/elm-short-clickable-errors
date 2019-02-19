@@ -8,7 +8,7 @@
 
 ## Download files 
 
-https://github.com/tigp/master/releases
+https://github.com/tigp/elm-short-clickable-errors/releases
 
 ### Available options
 
